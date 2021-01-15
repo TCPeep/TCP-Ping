@@ -1,0 +1,7 @@
+C:\Users\tcpfl\Desktop\TCPPing\TCPPing\bin\Debug\TCPPing.exe.config
+C:\Users\tcpfl\Desktop\TCPPing\TCPPing\bin\Debug\TCPPing.exe
+C:\Users\tcpfl\Desktop\TCPPing\TCPPing\bin\Debug\TCPPing.pdb
+C:\Users\tcpfl\Desktop\TCPPing\TCPPing\obj\Debug\TCPPing.csprojAssemblyReference.cache
+C:\Users\tcpfl\Desktop\TCPPing\TCPPing\obj\Debug\TCPPing.csproj.CoreCompileInputs.cache
+C:\Users\tcpfl\Desktop\TCPPing\TCPPing\obj\Debug\TCPPing.exe
+C:\Users\tcpfl\Desktop\TCPPing\TCPPing\obj\Debug\TCPPing.pdb
